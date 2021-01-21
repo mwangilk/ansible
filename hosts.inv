@@ -1,3 +1,3 @@
 [webserver]
-mwangilaban36@tbc-stage1 = 10.0.0.3 
+mwangilaban36@tbc-stage1  ansible_host = 10.0.0.3 
 
