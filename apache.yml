@@ -1,5 +1,5 @@
 ---
-- hosts: webserver
+- hosts: all
   become: ansible_sudo_user
   tasks:
     - name: Install packages
