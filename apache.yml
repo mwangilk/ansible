@@ -1,6 +1,6 @@
 ---
 - hosts: all
-  become: ansible_sudo_user
+  become: True
   tasks:
     - name: Install packages
       yum:
