@@ -1,3 +1,4 @@
 [webserver]
-mwangilaban36@tbc-stage1  ansible_host = 10.0.0.3 
+ansible_user = mwangilaban36@tbc-stage1  
+ansible_host = 10.0.0.3 
 
