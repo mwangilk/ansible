@@ -1,5 +1,5 @@
 ---
-- hosts: 10.0.0.3
+- hosts: webserver
   become: True
   tasks:
     - name: Install packages
